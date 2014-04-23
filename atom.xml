@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Mock the Test - free practise and mock test for Life in the UK Test and more.</title>
+	<link href="http://www.mockthetest.com/atom.xml" rel="self"/>
+	<link href="http://www.mockthetest.com"/>
+	<updated>2014-04-23T15:19:44.591Z</updated>
+	<id>http://www.mockthetest.com</id>
+	<author>
+		<name>Warren Liu</name>
+		<email>admin@mockthetest.com</email>
+	</author>
+
+	
+		<entry>
+			<title>An experience on the Life in the UK Test</title>
+			<link href="http://www.mockthetest.com//posts/life-in-the-uk-test"/>
+			<updated>2014-04-23T14:53:53.000Z</updated>
+			<id>http://www.mockthetest.com//posts/life-in-the-uk-test</id>
+			<content type="html">&lt;html&gt;
+&lt;head&gt;
+    &lt;title&gt;An experience on the Life in the UK Test | Mock the Test - free practise and mock test for Life in the UK Test and more. &lt;/title&gt;
+    &lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.64.2&quot; /&gt;
+    &lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/bootstrap-slate.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css&quot; /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+      &lt;header style=&quot;margin-bottom: 80px&quot;&gt;
+        &lt;nav class=&quot;navbar navbar-default navbar-fixed-top sticky&quot; role=&quot;navigation&quot; &gt;
+            &lt;div class=&quot;container&quot;&gt;
+                &lt;div class=&quot;navbar-header&quot;&gt;
+                    &lt;button type=&quot;button&quot; class=&quot;navbar-toggle&quot; data-toggle=&quot;collapse&quot; data-target=&quot;.navbar-collapse&quot;&gt;
+                    &lt;/button&gt;
+                    &lt;a class=&quot;navbar-brand&quot; href=&quot;http://www.mockthetest.com/#&quot;&gt;Mock The Test&lt;/a&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;navbar-collapse collapse&quot;&gt;
+                    &lt;ul class=&quot;nav navbar-nav&quot;&gt;
+                        &lt;li&gt;&lt;a href=&quot;http://www.mockthetest.com/#practise&quot; title=&quot;Practise with the questions&quot;&gt;&lt;i class=&quot;fa fa-book&quot;&gt;&lt;/i&gt; Practise&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;a href=&quot;http://www.mockthetest.com/#test&quot; title=&quot;See if you can pass&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt; Test!&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;a href=&quot;http://blog.mockthetest.com/&quot; title=&quot;Our blog&quot;&gt;
+                            &lt;i class=&quot;fa fa-leaf&quot;&gt;&lt;/i&gt; Blog&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;a href=&quot;http://www.mockthetest.com/#feedback&quot; title=&quot;Help us improve&quot;&gt;&lt;i class=&quot;fa fa-comments-o&quot;&gt;&lt;/i&gt; Feedback&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/nav&gt;
+      &lt;/header&gt;
+
+   &lt;section class=&quot;container&quot;&gt;
+    &lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+	&lt;h1&gt;An experience on the Life in the UK Test&lt;/h1&gt;
+	&lt;div class=&quot;post-content&quot;&gt;&lt;h2 id=&quot;general-feelings&quot;&gt;General feelings&lt;/h2&gt;
+&lt;p&gt;So I have passed the &lt;strong&gt;Life in the UK Test&lt;/strong&gt;. To be fair, it is quite simple; I have prepared for the worse.
+I was not told what my score was, but I was certain about 20 of the 24 questions, with some educated
+guesses for the rest.&lt;/p&gt;
+&lt;p&gt;People (my solicitor especially) are saying that even native Britons wont be able to pass the Life
+in the UK Test without preparation, which I kinda of agree. After all, who on earth would try to remember
+ &lt;em&gt;where did Herry III&amp;#39;s fifth wife come from?&lt;/em&gt;, apart from &lt;a href=&quot;http://www.bbc.co.uk/programmes/b006z736&quot;&gt;egghead&lt;/a&gt;?
+But with some time study, it is fairly simple. The &lt;strong&gt;40 minutes test&lt;/strong&gt; took me 15 minutes to finish with double check,
+and hesitating whether to do a triple check to make the &lt;strong&gt;£50 test fee&lt;/strong&gt; more worthwhile.&lt;/p&gt;
+&lt;h2 id=&quot;take-the-test&quot;&gt;Take the test&lt;/h2&gt;
+&lt;p&gt;Before the test, the supervisors would question about my name, DOB, etc., to make sure I know myself well enough.
+Then I was lead to a quite old computer with some crappy mouse; I have to fiddle with it to make sure
+it won&amp;#39;t click incorrectly on the screen. One funny fact is, to be able to administrate the test,
+it requires &lt;strong&gt;TWO&lt;/strong&gt; supervisors&amp;#39; input of their passwords, in turn, to satisfy the security check, very much reminding me
+of some movie, in which more than one passwords from different persons are required to lunch the nuclear missile.&lt;/p&gt;
+&lt;p&gt;After the supervisor double checked again with my ID, my test session started. Before the real test, I was able to practise
+with a few questions to get familiar with the interface (and the mouse), then off me went, submitted 15 minutes later.
+Then I realised that I cannot leave until everyone else finished as well&lt;i class=&quot;fa fa-frown-o&quot;&gt; &lt;/i&gt;.
+What a reckless decision that was.&lt;/p&gt;
+&lt;p&gt;Finally, other test mates were encouraged by my spirit and submitted. Then each one was called up to be told if they passed or not.
+Failed ones went home empty hand; passed ones with a certificate and a happy face.&lt;/p&gt;
+&lt;h2 id=&quot;don-t-lower-your-guard&quot;&gt;Don&amp;#39;t lower your guard&lt;/h2&gt;
+&lt;p&gt;It wasn&amp;#39;t particular busy day in the test center, with only a handful of people taking the test.
+One of my test mates, a 20-ish west asian boy, failed his second attempt. When chatted
+with him afterward, he kept saying that his british mate knew nothing about the questions,
+as if to prove that he failed with a good reason. Well, you are not british, just yet. This
+is the exactly reason why I developed &lt;a href=&quot;http://www.mockthetest.com&quot;&gt;Mock the Test&lt;/a&gt; website to help.
+Try a &lt;a href=&quot;http://www.mockthetest.com/#test&quot;&gt;test&lt;/a&gt; for yourself, see if it is easy enough for you to pass.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;footer&gt;
+	
+&lt;/footer&gt;
+   &lt;/section&gt;
+
+    &lt;div class=&quot;divider&quot;&gt;&lt;!-- divider --&gt;
+        &lt;i class=&quot;fa fa-heart-o&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+
+    &lt;footer&gt;
+        &lt;div class=&quot;footer-bar&quot;&gt;
+            &lt;div class=&quot;container&quot;&gt;
+                &lt;div class=&quot;row&quot;&gt;
+                    &lt;div class=&quot;col-md-12&quot;&gt;&lt;span class=&quot;copyright&quot;&gt;Copyright © mockthetest.com. All Rights Reserved.&lt;/span&gt;&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;!-- footer content --&gt;
+    &lt;/footer&gt;
+
+    
+
+&lt;/body&gt;
+&lt;/html&gt;</content>
+		</entry>
+	
+</feed>

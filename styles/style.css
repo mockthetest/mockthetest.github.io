@@ -1,0 +1,187 @@
+.larger-font {
+    font-size: 18px;
+}
+
+.question-text {
+    font-size: 18px;
+}
+
+.navbar-static-top {
+    margin-bottom: 19px;
+}
+
+.website-intro-box{
+    margin-top:3px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: rgb(232, 232, 232);
+}
+
+.footer {
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: rgb(232, 232, 232);
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.practise-main-box{
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(232, 232, 232);
+    padding: 10px;
+}
+
+
+div.featured-box i.fa {
+    padding: 0;
+    color: #fff;
+    margin: 20px 0;
+    font-size: 40px;
+    text-align:center;
+    position: relative;
+    background-color:#333;
+    display: inline-block;
+
+    width:100px; height:100px;
+    line-height:100px;
+
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+
+/* box-icon line separator */
+.featured-box.left-separator {
+    border-left:#363636 1px solid;
+
+    -webkit-border-radius:0;
+    -moz-border-radius:0;
+    border-radius:0;
+}
+
+h1 span.subtitle,
+h2 span.subtitle,
+h3 span.subtitle {
+    display:block;
+    font-size:15px;
+    padding:0; margin:-3px 0 0 0;
+}
+
+.page-header {
+    color:#999 !important;
+    border-bottom:#333 1px solid;
+}
+
+.nomargin-top		{ margin-top:0 !important; 	}
+
+.page-header strong {
+    color:#999 !important;
+}
+
+.divider {
+    border-top:#666 1px solid;
+    border-bottom:#666 1px solid;
+
+    margin: 40px 40px;
+    height: 4px;
+
+    text-align: center;
+    position: relative;
+    clear: both;
+}
+
+.divider .fa {
+    color: #bbb;
+
+    background-color: #272b30;/* same as background color */
+
+    text-align: center;
+    display: inline-block;
+    height: 50px; line-height: 50px;
+    text-align: center;
+    width: 50px;
+    font-size: 20px;
+
+    position: absolute;
+    top: -25px; left: 50%;
+    margin: 0 auto 0 -25px;
+
+}
+
+
+div.featured-box.nobg i.fa {
+    font-size:30px;
+    margin-top:0;
+    color:  #5bc0de;
+    width:70px; height:70px;
+    line-height:70px;
+}
+
+/* Add a margin in the navigation bar between the image and text*/
+ul.nav li a i.fa{
+    margin-right: 5px;
+}
+
+div.featured-box.nobg.border-only i.fa {
+    background:none !important;
+    border:#333 1px solid;
+}
+
+div.featured-box {
+    padding:23px;
+    background:#fff;
+    text-align:center;
+
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+}
+
+
+div.featured-box.nobg {
+    background:none;
+}
+
+div.featured-box.nobg h4 {
+    color: #ffffff;
+}
+
+hr.half-margins {
+    margin:30px 0px;
+}
+
+hr {
+    border-bottom:#555 1px solid;
+    border-top:#161616 1px solid;
+}
+
+/* footer columns */
+footer .footer-content {
+    background-color: #49515a;
+    padding:20px 0;
+    display:block;
+}
+
+footer .footer-content h3 {
+    color:#fff !important;
+    font-weight:200;
+    font-size:16px;
+}
+
+footer .column {
+    display:block;
+    height:100%;
+}
+
+footer .footer-bar {
+    border-top:#403E44 1px dashed;
+    padding-top: 5px;
+    background-color: #49515a;
+    /*background-color:#111;*/
+    /*background:#292f38;*/
+    display:block;
+    text-transform:uppercase;
+    text-align: center;
+    position:relative;
+}
